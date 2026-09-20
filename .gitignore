@@ -1,0 +1,10 @@
+Plaintext
+# Entorno virtual generado por uv
+.venv/
+
+# Archivos compilados y temporales de Python
+__pycache__/
+*.py[cod]
+
+# Configuración local del editor
+.vscode/
