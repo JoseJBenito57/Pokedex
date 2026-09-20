@@ -92,9 +92,11 @@ Pillow: Procesamiento y apertura de imágenes en memoria.
 
 uv: Gestión de entorno, dependencias y empaquetado.
 
-Próximos Pasos (Roadmap)
-[ ] Transición de interfaz de consola hacia una API web interactiva con FastAPI.
+## Próximos Pasos (Roadmap)
 
-[ ] Renderizado de tarjeta Pokédex dinámica con HTML/CSS nativo.
-
-[ ] Reproductor directo del audio .ogg de los cries en el navegador.
+- [ ] Transición de interfaz de consola hacia una aplicación web con **FastAPI**.
+- [ ] Selector interactivo de idioma (Español / Inglés).
+- [ ] Visualización de estadísticas base mediante barras de progreso animadas y dinámicas.
+- [ ] Detalle expandible con la descripción del efecto de cada habilidad en combate.
+- [ ] Reproductor directo del audio *.ogg* de los *cries* en el navegador.
+- [ ] Galería interactiva para alternar entre sprites frontales, traseros y versiones Shiny.
